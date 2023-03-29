@@ -1,0 +1,56 @@
+.container{
+    border: 2px solid salmon;
+    text-align: center;
+}
+.flight-item{
+    margin-bottom:20px;
+}
+.destination-Btn{
+    display: inline-block;
+    margin-left:10px;
+}
+nav{
+    height: 90px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+/* table {
+    border-collapse: collapse;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: white;
+}
+
+tr:hover {
+    background-color: #F1F9F9;
+}
+
+th {
+    background-color: #002B5B;
+    width: 100px;
+    padding: 30px;
+    color: white;
+    text-align: left;
+}
+
+td {
+    border-top: 1px solid #EFF5F5;
+    padding: 30px;
+    text-align: left;
+    color: #2D2727;
+
+}
+
+td > a {
+    text-decoration: none;
+    color: #2D2727;
+} */
