@@ -10,7 +10,7 @@ function Index(props) {
     <DefaultLayout>
 
       <div className="d-flex flex-column flex-wrap justify-content-around align-items-center">
-        <h1>Welcome to JetBlack Airlines - Index</h1>
+        <h1>Welcome to JetBlack Airlines</h1>
 
         {/* buttons */}
         <div className="d-flex">
